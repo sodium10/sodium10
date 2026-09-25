@@ -7,7 +7,7 @@
   </p>
   <p>
     <a href="https://sodium10.github.io/">
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX////4+Pi3ubtvcnZNUVU+Q0cpLjLr6+x3en0sMTYkKS59gIORk5aUl5n8/Pzw8PFTV1tbX2Pc3d5DSEzn5+g3PECLjpFKTlKFh4qxs7XCxMUuMze/wcLh4uPV1tZzd3o/Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA+KkidVAa/WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV/eC2H3e0C7lk1aBEzd+7SpigJOZVoXx+J5UxzADil+8+KZYoRaK5y2WZxSdgm0j+dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y+EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII=" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-161b22?style=for-the-badge&logo=githubpages&logoColor=38bdf8" alt="Live Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/fowad-morshed-10112oo2/">
       <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
@@ -165,7 +165,7 @@ Based on my recent projects and engineering workflow, I work with frontend devel
     <img src="https://img.shields.io/badge/HackerRank-fowadabrar-161b22?style=for-the-badge&logo=hackerrank&logoColor=2ec866" alt="HackerRank Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://fowad-abrar.vercel.app">
+  <a href="https://sodium10.github.io/">
     <img src="https://img.shields.io/badge/Algorithmic_Solves-100%2B_Problems-161b22?style=for-the-badge&logo=target&logoColor=a855f7" alt="Solves" />
   </a>
 </div>
