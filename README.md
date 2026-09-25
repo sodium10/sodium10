@@ -2,12 +2,12 @@
   <h1>⚡ Fowad Abrar</h1>
   <p>
     <a href="https://github.com/sodium10">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision+(YOLOv12);C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision;C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'22+%7C" alt="Typing SVG" />
     </a>
   </p>
   <p>
-    <a href="https://fowad-abrar.vercel.app">
-      <img src="https://img.shields.io/badge/Live_Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live Portfolio" />
+    <a href="https://sodium10.github.io/">
+      <img src="" alt="Live Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/fowad-morshed-10112oo2/">
       <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
