@@ -1,24 +1,31 @@
-<div align="center">
 
-      <h1>⚡ Fowad Abrar</h1>
+<div align="center">
+  <h1>⚡ Fowad Abrar</h1>
   <p>
     <a href="https://github.com/sodium10">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision;C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision+(YOLOv12);C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
     </a>
   </p>
-
-
-
-
-
-  <!-- Metric Badges Row -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Production%20Websites-2%20Delivered-00f2fe?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Production Deliveries" />
-    <img src="https://img.shields.io/badge/Research%20Papers-4%20Published-38bdf8?style=flat-square&logo=academia&logoColor=white&labelColor=0f172a" alt="Research Publications" />
-    <img src="https://img.shields.io/badge/Algorithmic%20Solves-100%2B%20Problems-a855f7?style=flat-square&logo=leetcode&logoColor=white&labelColor=0f172a" alt="Solves" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Innovation-22c55e?style=flat-square&logo=statuspage&logoColor=white&labelColor=0f172a" alt="Status" />
+  <p>
+    <a href="https://fowad-abrar.vercel.app">
+      <img src="https://img.shields.io/badge/Live_Portfolio-00f2fe?style=for-the-badge&logo=vercel&logoColor=06080e" alt="Live Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/fowad-morshed-10112oo2/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://codeforces.com/profile/abrar_10">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/fowadabrar">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+    </a>
+    <a href="https://www.researchgate.net/profile/Fowad-Morshad">
+      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+    </a>
+    <a href="mailto:fowadabrar@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
-
 </div>
 
 ---
