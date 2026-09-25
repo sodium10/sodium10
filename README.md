@@ -122,15 +122,15 @@ sodium10@workstation:~$ neofetch --profile
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sodium10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sodium10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8" height="175" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodium10&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00f2fe&text_color=94a3b8" height="175" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sodium10&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00f2fe&text_color=94a3b8" height="175" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium10&theme=tokyonight&hide_border=true&background=06080e&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=sodium10&theme=tokyonight&hide_border=true&background=06080e&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
