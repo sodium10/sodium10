@@ -3,34 +3,13 @@
       <h1>⚡ Fowad Abrar</h1>
   <p>
     <a href="https://github.com/sodium10">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision+(YOLOv12);C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision;C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
     </a>
   </p>
 
 
 
 
-  <!-- High-Impact Quick Action Badges -->
-  <p align="center">
-    <a href="https://fowad-abrar.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00f2fe?style=for-the-badge&logo=vercel&logoColor=06080e&labelColor=0a0e17" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/fowad-morshed-10112oo2/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
-    </a>
-    <a href="https://www.researchgate.net/profile/Fowad-Morshad" target="_blank">
-      <img src="https://img.shields.io/badge/RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0a0e17" alt="ResearchGate" />
-    </a>
-    <a href="https://codeforces.com/profile/abrar_10" target="_blank">
-      <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0e17" alt="Codeforces" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/fowadabrar" target="_blank">
-      <img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0e17" alt="HackerRank" />
-    </a>
-    <a href="mailto:fowadabrar@gmail.com">
-      <img src="https://img.shields.io/badge/DIRECT%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="Email" />
-    </a>
-  </p>
 
   <!-- Metric Badges Row -->
   <p align="center">
