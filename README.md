@@ -10,14 +10,6 @@
 
 
 
-
-  <!-- Animated Typing Header -->
-  <p align="center">
-    <a href="https://fowad-abrar.vercel.app">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1100&color=00F2FE&center=true&vCenter=true&width=780&lines=%3C%2F%3E+Frontend+Developer+Intern+%40+Fazesoft;%F0%9F%94%AC+Applied+AI+%26+Computer+Vision+Researcher+(YOLOv12);%E2%9A%A1+C%2FC%2B%2B+Systems+%26+Competitive+Problem+Solver;%F0%9F%8E%93+Final+Year+B.Sc.+CSE+%40+United+International+University;%F0%9F%9A%80+2+Production+Sites+Delivered+%E2%80%A2+4+Published+Papers" alt="Dynamic Roles" />
-    </a>
-  </p>
-
   <!-- High-Impact Quick Action Badges -->
   <p align="center">
     <a href="https://fowad-abrar.vercel.app" target="_blank">
