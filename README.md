@@ -9,8 +9,7 @@
 
 
 
-  <!-- Header Banner & Dynamic Glow Line -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=180&section=header&text=Fowad%20Abrar&fontSize=52&fontAlignY=38&desc=Frontend%20Systems%20Engineer%20%7C%20Applied%20AI%20%26%20Computer%20Vision%20%7C%20Low-Level%20Systems&descFontSize=16&descAlignY=62&fontColor=00f2fe&descColor=94a3b8" width="100%" alt="Header Banner" />
+
 
   <!-- Animated Typing Header -->
   <p align="center">
