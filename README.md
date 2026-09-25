@@ -1,42 +1,21 @@
 <div align="center">
 
-    <h1>⚡ Fowad Abrar</h1>
+      <h1>⚡ Fowad Abrar</h1>
   <p>
     <a href="https://github.com/sodium10">
       <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Frontend+Systems+Engineer+%40+Fazesoft;Applied+AI+%26+Computer+Vision+(YOLOv12);C%2FC%2B%2B+Developer+%26+Competitive+Problem+Solver;UIU+CSE+'26+%7C+2+Delivered+Sites+%7C+4+Papers" alt="Typing SVG" />
     </a>
   </p>
 
-  ### 👨‍💻 Engineering Dossier & About Me
 
-```json
-{
-  "developer": "Fowad Abrar (Morshad)",
-  "education": "Final Year B.Sc. in Computer Science & Engineering @ United International University (UIU)",
-  "current_role": "Frontend Developer Intern @ Fazesoft",
-  "specializations": ["Machine Learning", "Computer Vision", "Frontend Development", "C/C++ Systems", "Algorithmic Problem Solving"],
-  "design_prototyping": ["Figma UI/UX Design", "Autodesk Fusion 360 (3D CAD)"],
-  "track_record": "2 Production Websites Delivered • 4 Research Papers Published • 100+ Algorithmic Solves"
-}
 
-  <p>
+  <!-- Header Banner & Dynamic Glow Line -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=180&section=header&text=Fowad%20Abrar&fontSize=52&fontAlignY=38&desc=Frontend%20Systems%20Engineer%20%7C%20Applied%20AI%20%26%20Computer%20Vision%20%7C%20Low-Level%20Systems&descFontSize=16&descAlignY=62&fontColor=00f2fe&descColor=94a3b8" width="100%" alt="Header Banner" />
+
+  <!-- Animated Typing Header -->
+  <p align="center">
     <a href="https://fowad-abrar.vercel.app">
-      <img src="https://img.shields.io/badge/Live_Portfolio-00f2fe?style=for-the-badge&logo=vercel&logoColor=06080e" alt="Live Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/fowad-morshed-10112oo2/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://codeforces.com/profile/abrar_10">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/fowadabrar">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-    </a>
-    <a href="https://www.researchgate.net/profile/Fowad-Morshad">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-    </a>
-    <a href="mailto:fowadabrar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1100&color=00F2FE&center=true&vCenter=true&width=780&lines=%3C%2F%3E+Frontend+Developer+Intern+%40+Fazesoft;%F0%9F%94%AC+Applied+AI+%26+Computer+Vision+Researcher+(YOLOv12);%E2%9A%A1+C%2FC%2B%2B+Systems+%26+Competitive+Problem+Solver;%F0%9F%8E%93+Final+Year+B.Sc.+CSE+%40+United+International+University;%F0%9F%9A%80+2+Production+Sites+Delivered+%E2%80%A2+4+Published+Papers" alt="Dynamic Roles" />
     </a>
   </p>
 
