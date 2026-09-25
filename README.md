@@ -43,14 +43,13 @@ sodium10@workstation:~$ neofetch --profile
   "current_role": "Frontend Developer Intern @ Fazesoft",
   "domains": [
     "Machine Learning & Computer Vision (YOLOv12, PyTorch, OpenCV)",
-    "Frontend Systems Engineering (React.js, Modern JavaScript, Responsive Architecture)",
+    "Frontend Software Engineer",
     "Low-Level Systems & Problem Solving (C / C++, Data Structures & Algorithms)",
     "Product Design & Hardware Prototyping (Figma UI/UX, Autodesk Fusion 360)"
   ],
   "verified_impact": {
     "enterprise_deployments": ["HomeNet BD (Fazesoft)", "Mark Design Engineering Ltd."],
     "scientific_publications": 4,
-    "highlighted_paper": "Smart Jaynamaz with IoT-Enabled Smart Materials",
     "algorithmic_solves": "100+ across Codeforces & HackerRank"
   },
   "focus": "Building low-latency client interfaces & production-grade AI vision pipelines"
